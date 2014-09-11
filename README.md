@@ -1,4 +1,1 @@
-metronome
-=========
-
-A metronome as a combination of pendulum and Van der Pol oscillator.
+![](https://github.com/stemblab/metronome/blob/gh-pages/thumb.png)
